@@ -18,6 +18,3 @@ This pipeline performs:
 
 Designed for **large datasets** and optimized for **HPC (SLURM)** environments.
 
----
-
-## 📁 Project Structure
